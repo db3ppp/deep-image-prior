@@ -4,6 +4,7 @@
 
 이 프로젝트는  "Deep image prior" 논문과 관련 구현 github 코드를 활용하여 구현하였습니다.
 기존의 'inpainting' 코드를 응용해 사용자가 영상에서 지우고싶은 글씨를 지울 수 있도록 새롭게 customize 해보았습니다.
+
 => 'inpainting_with_custom_mask.ipynb'
 
 *기대 효과*
